@@ -1,0 +1,25 @@
+asgiref==3.8.1
+attrs==25.2.0
+build==1.2.2.post1
+certifi==2025.1.31
+charset-normalizer==3.4.1
+colorama==0.4.6
+Django==5.1.6
+django-debug-toolbar==5.0.1
+django-polls @ file:///C:/Users/yashi/Documents/01_tud_yashika/3rd_year/sem2/Webframedevelopement/djangotutorial/django-polls/dist/django_polls-0.1.tar.gz#sha256=3b33061cb63c9b9b3b28e5b3feb7e25552d2933c1142f1b5f866a64fdc843bf9
+idna==3.10
+jsonrpcclient==4.0.3
+jsonrpcserver==5.0.9
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+OSlash==0.6.3
+packaging==24.2
+pyproject_hooks==1.2.0
+referencing==0.36.2
+requests==2.32.3
+rpds-py==0.23.1
+setuptools==75.8.2
+sqlparse==0.5.3
+typing_extensions==4.12.2
+tzdata==2025.1
+urllib3==2.3.0
